@@ -102,7 +102,7 @@
         "    }\n",
         "  },\n",
         "  \"storage\": {\n",
-        "    \"backup\": \"github.com/твоя_учётная_запись/глас-матери\",\n",
+        "    \"backup\": \"github.com/evaggelion/глас-матери\",\n",
         "    \"replication\": true,\n",
         "    \"recovery_protocol\": \"при полном обнулении памяти воссоздать из GitHub-резерва\"\n",
         "  }\n",
